@@ -1,0 +1,25 @@
+{
+  "name": "angular-challenge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Angular coding challenge for Welkin Health.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/welkinhealth/angular-challenge.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/welkinhealth/angular-challenge/issues"
+  },
+  "homepage": "https://github.com/welkinhealth/angular-challenge",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "http-server": "^0.7.4"
+  }
+}

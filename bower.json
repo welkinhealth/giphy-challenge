@@ -1,0 +1,15 @@
+{
+  "name": "angular-challenge",
+  "description": "Coding challenge for Welkin Health",
+  "version": "1.0.0",
+  "homepage": "https://github.com/welkinhealth/giphy-challenge",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-bootstrap": "~0.12.1"
+  }
+}
